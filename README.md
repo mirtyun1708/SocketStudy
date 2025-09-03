@@ -51,6 +51,14 @@ After establishing a connection, clients can send and receive data using send() 
 
 ## Use Cases of Socket Programming:
 Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
+
+## Output:
+```server```
+<img width="1917" height="1199" alt="Screenshot 2025-09-03 105936" src="https://github.com/user-attachments/assets/cfbfe7c5-702e-45fd-aaba-b6fc9e87fbe9" />
+```client```
+<img width="1919" height="1197" alt="Screenshot 2025-09-03 104500" src="https://github.com/user-attachments/assets/edf80d3a-19d3-420d-8b54-cbf70ac2ad70" />
+
+
 ## Example Use Cases:
 
 1.	Web servers: Web servers use socket programming to handle incoming HTTP requests from clients, serving web pages and content.
